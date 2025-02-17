@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hdevelop file_version="1.2" halcon_version="18.11.1.0">
+<procedure name="main">
+<interface/>
+<body>
+<c>*检查Paddle数据掩膜灰度值是否有误</c>
+<l>read_image (Image1, 'E:/dataset/Avary-paddleseg/ava_frontv3/labels/18.10.12.404_2_C46H7C02L3A0000CDJ18.10.12.404_yt_t.png')</l>
+<l>threshold (Image1, Region1, 0, 0)</l>
+<c>*原海康标注数据集数据保存路径</c>
+<l>HikDataDir := 'E:/dataset/Avary/ava_frontv3'</l>
+<c></c>
+<c>*Paddle格式数据原图和标签保存路径</c>
+<l>PaddleImgSaveDir := 'E:/dataset/Avary-paddleseg/ava_frontv3/images/'</l>
+<l>PaddlelabelSaveDir := 'E:/dataset/Avary-paddleseg/ava_frontv3/labels/'</l>
+<l>PaddlelabelDefaultSaveDir := 'E:/dataset/Avary-paddleseg/ava_frontv3/labels-default/'</l>
+<c></c>
+<c>*先备份一次所有的掩膜图</c>
+<l>list_image_files (PaddlelabelSaveDir, '.png', [], PNGFiles)//遍历掩膜</l>
+<l>for Index := 0 to |PNGFiles|-1 by 1</l>
+<l>    read_image (Image, PNGFiles[Index])</l>
+<l>    filename :=PNGFiles[Index]</l>
+<c>    </c>
+<c>    *设置需要检查的标签</c>
+<l>    threshold (Image, Region, 5, 5)</l>
+<l>    gen_empty_region (EmptyRegion)</l>
+<l>    if(Region != EmptyRegion)</l>
+<l>        reduce_domain (Image, Region, ImageReduced)</l>
+<l>        overpaint_region (Image, ImageReduced, 3, 'fill')</l>
+<l>        tuple_split (filename, '/' , Substring)</l>
+<l>        tuple_length (Substring, Length)</l>
+<l>        filename_new := Substring[Length-1]</l>
+<l>        write_image (Image, 'png', 0, PaddlelabelSaveDir + '/' + filename_new)</l>
+<l>    endif</l>
+<l>endfor</l>
+<c></c>
+</body>
+<docu id="main">
+<parameters/>
+</docu>
+</procedure>
+</hdevelop>

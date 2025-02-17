@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hdevelop file_version="1.2" halcon_version="18.11.1.0">
+<procedure name="main">
+<interface/>
+<body>
+<c>*在海康VisionTrain软件将数据集标注完成之后，</c>
+<c>*需要直接将完整数据集转成Paddle数据集格式进行训练</c>
+<c>*修改好输入和输出路径，直接运行本文件</c>
+<c></c>
+<c>*原海康标注数据集数据保存路径</c>
+<l>HikDataDir := 'E:/dataset/Avary/ava_frontv4'</l>
+<c></c>
+<c>*Paddle格式数据原图和标签保存路径</c>
+<l>PaddleImgSaveDir := 'E:/dataset/Avary-paddleseg/ava_frontv4/images/'</l>
+<l>PaddlelabelSaveDir := 'E:/dataset/Avary-paddleseg/ava_frontv4/labels/'</l>
+<c></c>
+<l>*file_exists (PaddleImgSaveDir, FileExists)</l>
+<l>*if (not(FileExists))</l>
+<l>    *make_dir(PaddleImgSaveDir)</l>
+<l>*endif</l>
+<c></c>
+<c>*将原图和标注后的掩膜图移动到Paddle数据集文件夹</c>
+<l>list_image_files (HikDataDir, '.jpg', [], JPGFiles)//遍历原图</l>
+<l>for Index := 0 to |JPGFiles|-1 by 1</l>
+<l>    read_image (Image, JPGFiles[Index])</l>
+<l>    filename :=JPGFiles[Index]</l>
+<l>    tuple_split (filename, '/' , Substring)</l>
+<l>    tuple_length (Substring, Length)</l>
+<l>    filename_new := Substring[Length-1]</l>
+<l>    write_image (Image, 'jpg', 0, PaddleImgSaveDir + filename_new)</l>
+<l>endfor</l>
+<c></c>
+<c>*先备份一次所有的掩膜图</c>
+<l>list_image_files (HikDataDir, '.png', [], PNGFiles)//遍历掩膜</l>
+<l>for Index1 := 0 to |PNGFiles|-1 by 1</l>
+<l>    read_image (Image1, PNGFiles[Index1])</l>
+<l>    filename1 :=PNGFiles[Index1]</l>
+<c>    </c>
+<c>    *海康掩膜图背景默认灰度值255，Paddle默认灰度值为0，这里需要修改</c>
+<l>    threshold (Image1, Region, 200, 255)</l>
+<l>    reduce_domain (Image1, Region, ImageReduced)</l>
+<l>    overpaint_region (Image1, ImageReduced, 0, 'fill')</l>
+<c>    </c>
+<l>    tuple_split (filename1, '/' , Substring1)</l>
+<l>    tuple_length (Substring1, Length1)</l>
+<l>    filename_new1 := Substring1[Length1-1]</l>
+<l>    write_image (Image1, 'png', 0, PaddlelabelSaveDir + '/' + filename_new1)</l>
+<l>endfor</l>
+<c></c>
+</body>
+<docu id="main">
+<parameters/>
+</docu>
+</procedure>
+</hdevelop>
