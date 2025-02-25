@@ -14,7 +14,7 @@ namespace ScriptsTools
                 /// <summary>
                 /// 传图
                 /// </summary>
-                private void DecodeFileName()
+                public void DecodeFileName()
                 {
                         var rootFolderPath = "";
                         int count_curUploadingIndex = 0;//当前上传量索引

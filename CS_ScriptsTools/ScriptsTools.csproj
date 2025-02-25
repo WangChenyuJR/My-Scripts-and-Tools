@@ -5,7 +5,12 @@
     <Nullable>enable</Nullable>
     <UseWPF>true</UseWPF>
     <ImplicitUsings>enable</ImplicitUsings>
+    <BaseOutputPath>E:\chenyu.wang\MyScriptsAndTools\CS_ScriptsTools\bin</BaseOutputPath>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Drawing.Common" Version="9.0.2" />
+  </ItemGroup>
 
   <ItemGroup>
     <Reference Include="System.Data.Entity">

@@ -1,14 +1,63 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\chenyu.wang\\MyScriptsAndTools\\ScriptsTools\\",
+  "WorkspaceRootPath": "E:\\chenyu.wang\\MyScriptsAndTools\\CS_ScriptsTools\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4A6A88A9-E437-4ED6-8F04-640DE6D699E1}|ScriptsTools.csproj|e:\\chenyu.wang\\myscriptsandtools\\scriptstools\\usercontrol1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4A6A88A9-E437-4ED6-8F04-640DE6D699E1}|ScriptsTools.csproj|solutionrelative:usercontrol1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{43EAF6AA-77A2-4B78-AF68-64C200D36006}|..\\Datasets\\Datasets.csproj|e:\\chenyu.wang\\myscriptsandtools\\datasets\\datasets.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A6A88A9-E437-4ED6-8F04-640DE6D699E1}|ScriptsTools.csproj|e:\\chenyu.wang\\myscriptsandtools\\scriptstools\\usercontrol1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A6A88A9-E437-4ED6-8F04-640DE6D699E1}|ScriptsTools.csproj|solutionrelative:usercontrol1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD0D1109-D8A1-4661-840B-03609243BB97}|..\\MainRun\\MainRun.csproj|e:\\chenyu.wang\\myscriptsandtools\\mainrun\\start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43EAF6AA-77A2-4B78-AF68-64C200D36006}|..\\Datasets\\Datasets.csproj|e:\\chenyu.wang\\myscriptsandtools\\datasets\\mainprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43EAF6AA-77A2-4B78-AF68-64C200D36006}|..\\Datasets\\Datasets.csproj|e:\\chenyu.wang\\myscriptsandtools\\datasets\\format\\generate\\hikvt_annotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43EAF6AA-77A2-4B78-AF68-64C200D36006}|..\\Datasets\\Datasets.csproj|e:\\chenyu.wang\\myscriptsandtools\\datasets\\format\\generate\\vimo_annotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43EAF6AA-77A2-4B78-AF68-64C200D36006}|..\\Datasets\\Datasets.csproj|e:\\chenyu.wang\\myscriptsandtools\\datasets\\format\\transfer\\hiktovimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0D1109-D8A1-4661-840B-03609243BB97}|..\\MainRun\\MainRun.csproj|e:\\chenyu.wang\\myscriptsandtools\\mainrun\\mainrun.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F06F9D-0C59-44A9-AB77-EE8EF048771D}|..\\ScriptAppTools\\ScriptAppTools.csproj|e:\\chenyu.wang\\myscriptsandtools\\scriptapptools\\data\\filehandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F06F9D-0C59-44A9-AB77-EE8EF048771D}|..\\ScriptAppTools\\ScriptAppTools.csproj|e:\\chenyu.wang\\myscriptsandtools\\scriptapptools\\data\\charhandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F06F9D-0C59-44A9-AB77-EE8EF048771D}|..\\ScriptAppTools\\ScriptAppTools.csproj|e:\\chenyu.wang\\myscriptsandtools\\scriptapptools\\data\\decodeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F06F9D-0C59-44A9-AB77-EE8EF048771D}|..\\ScriptAppTools\\ScriptAppTools.csproj|e:\\chenyu.wang\\myscriptsandtools\\scriptapptools\\scriptapptools.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F06F9D-0C59-44A9-AB77-EE8EF048771D}|..\\ScriptAppTools\\ScriptAppTools.csproj|e:\\chenyu.wang\\myscriptsandtools\\scriptapptools\\data\\folderhandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F06F9D-0C59-44A9-AB77-EE8EF048771D}|..\\ScriptAppTools\\ScriptAppTools.csproj|e:\\chenyu.wang\\myscriptsandtools\\scriptapptools\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F06F9D-0C59-44A9-AB77-EE8EF048771D}|..\\ScriptAppTools\\ScriptAppTools.csproj|e:\\chenyu.wang\\myscriptsandtools\\scriptapptools\\global\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F06F9D-0C59-44A9-AB77-EE8EF048771D}|..\\ScriptAppTools\\ScriptAppTools.csproj|e:\\chenyu.wang\\myscriptsandtools\\scriptapptools\\scriptapptools.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0D1109-D8A1-4661-840B-03609243BB97}|..\\MainRun\\MainRun.csproj|e:\\chenyu.wang\\myscriptsandtools\\mainrun\\view\\toolsrunningview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0D1109-D8A1-4661-840B-03609243BB97}|..\\MainRun\\MainRun.csproj|e:\\chenyu.wang\\myscriptsandtools\\mainrun\\view\\toolsrunningview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0D1109-D8A1-4661-840B-03609243BB97}|..\\MainRun\\MainRun.csproj|e:\\chenyu.wang\\myscriptsandtools\\mainrun\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0D1109-D8A1-4661-840B-03609243BB97}|..\\MainRun\\MainRun.csproj|e:\\chenyu.wang\\myscriptsandtools\\mainrun\\viewmodels\\toolsrunningviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,35 +67,251 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "hikToViMo.cs",
+              "DocumentMoniker": "E:\\chenyu.wang\\MyScriptsAndTools\\Datasets\\Format\\transfer\\hikToViMo.cs",
+              "RelativeDocumentMoniker": "..\\Datasets\\Format\\transfer\\hikToViMo.cs",
+              "ToolTip": "E:\\chenyu.wang\\MyScriptsAndTools\\Datasets\\Format\\transfer\\hikToViMo.cs",
+              "RelativeToolTip": "..\\Datasets\\Format\\transfer\\hikToViMo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T06:40:55.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainProgram.cs",
+              "DocumentMoniker": "E:\\chenyu.wang\\MyScriptsAndTools\\Datasets\\MainProgram.cs",
+              "RelativeDocumentMoniker": "..\\Datasets\\MainProgram.cs",
+              "ToolTip": "E:\\chenyu.wang\\MyScriptsAndTools\\Datasets\\MainProgram.cs",
+              "RelativeToolTip": "..\\Datasets\\MainProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T03:24:08.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FileHandle.cs",
+              "DocumentMoniker": "E:\\chenyu.wang\\MyScriptsAndTools\\ScriptAppTools\\Data\\FileHandle.cs",
+              "RelativeDocumentMoniker": "..\\ScriptAppTools\\Data\\FileHandle.cs",
+              "ToolTip": "E:\\chenyu.wang\\MyScriptsAndTools\\ScriptAppTools\\Data\\FileHandle.cs",
+              "RelativeToolTip": "..\\ScriptAppTools\\Data\\FileHandle.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowB0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T03:16:00.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CharHandle.cs",
+              "DocumentMoniker": "E:\\chenyu.wang\\MyScriptsAndTools\\ScriptAppTools\\Data\\CharHandle.cs",
+              "RelativeDocumentMoniker": "..\\ScriptAppTools\\Data\\CharHandle.cs",
+              "ToolTip": "E:\\chenyu.wang\\MyScriptsAndTools\\ScriptAppTools\\Data\\CharHandle.cs",
+              "RelativeToolTip": "..\\ScriptAppTools\\Data\\CharHandle.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T03:14:24.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DecodeInfo.cs",
+              "DocumentMoniker": "E:\\chenyu.wang\\MyScriptsAndTools\\ScriptAppTools\\Data\\DecodeInfo.cs",
+              "RelativeDocumentMoniker": "..\\ScriptAppTools\\Data\\DecodeInfo.cs",
+              "ToolTip": "E:\\chenyu.wang\\MyScriptsAndTools\\ScriptAppTools\\Data\\DecodeInfo.cs",
+              "RelativeToolTip": "..\\ScriptAppTools\\Data\\DecodeInfo.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAawCcAAACRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T03:14:27.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HikVT_Annotation.cs",
+              "DocumentMoniker": "E:\\chenyu.wang\\MyScriptsAndTools\\Datasets\\Format\\generate\\HikVT_Annotation.cs",
+              "RelativeDocumentMoniker": "..\\Datasets\\Format\\generate\\HikVT_Annotation.cs",
+              "ToolTip": "E:\\chenyu.wang\\MyScriptsAndTools\\Datasets\\Format\\generate\\HikVT_Annotation.cs",
+              "RelativeToolTip": "..\\Datasets\\Format\\generate\\HikVT_Annotation.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAzwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T06:18:25.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViMo_Annotation.cs",
+              "DocumentMoniker": "E:\\chenyu.wang\\MyScriptsAndTools\\Datasets\\Format\\generate\\ViMo_Annotation.cs",
+              "RelativeDocumentMoniker": "..\\Datasets\\Format\\generate\\ViMo_Annotation.cs",
+              "ToolTip": "E:\\chenyu.wang\\MyScriptsAndTools\\Datasets\\Format\\generate\\ViMo_Annotation.cs",
+              "RelativeToolTip": "..\\Datasets\\Format\\generate\\ViMo_Annotation.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwHsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T06:18:32.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainRun.csproj",
+              "DocumentMoniker": "E:\\chenyu.wang\\MyScriptsAndTools\\MainRun\\MainRun.csproj",
+              "RelativeDocumentMoniker": "..\\MainRun\\MainRun.csproj",
+              "ToolTip": "E:\\chenyu.wang\\MyScriptsAndTools\\MainRun\\MainRun.csproj",
+              "RelativeToolTip": "..\\MainRun\\MainRun.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-25T02:36:48.477Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UserControl1.xaml",
-              "DocumentMoniker": "E:\\chenyu.wang\\MyScriptsAndTools\\ScriptsTools\\UserControl1.xaml",
-              "RelativeDocumentMoniker": "UserControl1.xaml",
-              "ToolTip": "E:\\chenyu.wang\\MyScriptsAndTools\\ScriptsTools\\UserControl1.xaml",
-              "RelativeToolTip": "UserControl1.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-17T08:57:42.471Z",
+              "Title": "Datasets",
+              "DocumentMoniker": "E:\\chenyu.wang\\MyScriptsAndTools\\Datasets\\Datasets.csproj",
+              "RelativeDocumentMoniker": "..\\Datasets\\Datasets.csproj",
+              "ToolTip": "E:\\chenyu.wang\\MyScriptsAndTools\\Datasets\\Datasets.csproj",
+              "RelativeToolTip": "..\\Datasets\\Datasets.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-25T03:24:38.942Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UserControl1.xaml.cs",
-              "DocumentMoniker": "E:\\chenyu.wang\\MyScriptsAndTools\\ScriptsTools\\UserControl1.xaml.cs",
-              "RelativeDocumentMoniker": "UserControl1.xaml.cs",
-              "ToolTip": "E:\\chenyu.wang\\MyScriptsAndTools\\ScriptsTools\\UserControl1.xaml.cs",
-              "RelativeToolTip": "UserControl1.xaml.cs",
+              "Title": "Start.cs",
+              "DocumentMoniker": "E:\\chenyu.wang\\MyScriptsAndTools\\MainRun\\Start.cs",
+              "RelativeDocumentMoniker": "..\\MainRun\\Start.cs",
+              "ToolTip": "E:\\chenyu.wang\\MyScriptsAndTools\\MainRun\\Start.cs",
+              "RelativeToolTip": "..\\MainRun\\Start.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T02:37:02.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ScriptAppTools",
+              "DocumentMoniker": "E:\\chenyu.wang\\MyScriptsAndTools\\ScriptAppTools\\ScriptAppTools.csproj",
+              "RelativeDocumentMoniker": "..\\ScriptAppTools\\ScriptAppTools.csproj",
+              "ToolTip": "E:\\chenyu.wang\\MyScriptsAndTools\\ScriptAppTools\\ScriptAppTools.csproj",
+              "RelativeToolTip": "..\\ScriptAppTools\\ScriptAppTools.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-25T06:20:45.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FolderHandle.cs",
+              "DocumentMoniker": "E:\\chenyu.wang\\MyScriptsAndTools\\ScriptAppTools\\Data\\FolderHandle.cs",
+              "RelativeDocumentMoniker": "..\\ScriptAppTools\\Data\\FolderHandle.cs",
+              "ToolTip": "E:\\chenyu.wang\\MyScriptsAndTools\\ScriptAppTools\\Data\\FolderHandle.cs",
+              "RelativeToolTip": "..\\ScriptAppTools\\Data\\FolderHandle.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowBcAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T03:16:03.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\chenyu.wang\\MyScriptsAndTools\\ScriptAppTools\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\ScriptAppTools\\Class1.cs",
+              "ToolTip": "E:\\chenyu.wang\\MyScriptsAndTools\\ScriptAppTools\\Class1.cs",
+              "RelativeToolTip": "..\\ScriptAppTools\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T08:57:41.603Z"
+              "WhenOpened": "2025-02-25T03:13:54.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "E:\\chenyu.wang\\MyScriptsAndTools\\ScriptAppTools\\Global\\Utility.cs",
+              "RelativeDocumentMoniker": "..\\ScriptAppTools\\Global\\Utility.cs",
+              "ToolTip": "E:\\chenyu.wang\\MyScriptsAndTools\\ScriptAppTools\\Global\\Utility.cs",
+              "RelativeToolTip": "..\\ScriptAppTools\\Global\\Utility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T03:16:34.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ScriptAppTools",
+              "DocumentMoniker": "E:\\chenyu.wang\\MyScriptsAndTools\\ScriptAppTools\\ScriptAppTools.csproj",
+              "RelativeDocumentMoniker": "..\\ScriptAppTools\\ScriptAppTools.csproj",
+              "ToolTip": "E:\\chenyu.wang\\MyScriptsAndTools\\ScriptAppTools\\ScriptAppTools.csproj",
+              "RelativeToolTip": "..\\ScriptAppTools\\ScriptAppTools.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-25T06:22:24.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ToolsRunningView.xaml",
+              "DocumentMoniker": "E:\\chenyu.wang\\MyScriptsAndTools\\MainRun\\View\\ToolsRunningView.xaml",
+              "RelativeDocumentMoniker": "..\\MainRun\\View\\ToolsRunningView.xaml",
+              "ToolTip": "E:\\chenyu.wang\\MyScriptsAndTools\\MainRun\\View\\ToolsRunningView.xaml",
+              "RelativeToolTip": "..\\MainRun\\View\\ToolsRunningView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-25T02:35:58.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ToolsRunningView.xaml.cs",
+              "DocumentMoniker": "E:\\chenyu.wang\\MyScriptsAndTools\\MainRun\\View\\ToolsRunningView.xaml.cs",
+              "RelativeDocumentMoniker": "..\\MainRun\\View\\ToolsRunningView.xaml.cs",
+              "ToolTip": "E:\\chenyu.wang\\MyScriptsAndTools\\MainRun\\View\\ToolsRunningView.xaml.cs",
+              "RelativeToolTip": "..\\MainRun\\View\\ToolsRunningView.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T02:35:58.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.xaml",
+              "DocumentMoniker": "E:\\chenyu.wang\\MyScriptsAndTools\\MainRun\\App.xaml",
+              "RelativeDocumentMoniker": "..\\MainRun\\App.xaml",
+              "ToolTip": "E:\\chenyu.wang\\MyScriptsAndTools\\MainRun\\App.xaml",
+              "RelativeToolTip": "..\\MainRun\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-25T02:52:07.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ToolsRunningViewModel.cs",
+              "DocumentMoniker": "E:\\chenyu.wang\\MyScriptsAndTools\\MainRun\\ViewModels\\ToolsRunningViewModel.cs",
+              "RelativeDocumentMoniker": "..\\MainRun\\ViewModels\\ToolsRunningViewModel.cs",
+              "ToolTip": "E:\\chenyu.wang\\MyScriptsAndTools\\MainRun\\ViewModels\\ToolsRunningViewModel.cs",
+              "RelativeToolTip": "..\\MainRun\\ViewModels\\ToolsRunningViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T02:50:01.839Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
             }
           ]
         }

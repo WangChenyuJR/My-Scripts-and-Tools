@@ -1,0 +1,16 @@
+E:\chenyu.wang\MyScriptsAndTools\DataSet\obj\Debug\net8.0\DataSet.csproj.AssemblyReference.cache
+E:\chenyu.wang\MyScriptsAndTools\DataSet\obj\Debug\net8.0\DataSet.GeneratedMSBuildEditorConfig.editorconfig
+E:\chenyu.wang\MyScriptsAndTools\DataSet\obj\Debug\net8.0\DataSet.AssemblyInfoInputs.cache
+E:\chenyu.wang\MyScriptsAndTools\DataSet\obj\Debug\net8.0\DataSet.AssemblyInfo.cs
+E:\chenyu.wang\MyScriptsAndTools\DataSet\obj\Debug\net8.0\DataSet.csproj.CoreCompileInputs.cache
+E:\chenyu.wang\MyScriptsAndTools\DataSet\obj\Debug\net8.0\DataSet.sourcelink.json
+E:\chenyu.wang\MyScriptsAndTools\DataSet\bin\Debug\net8.0\DataSet.exe
+E:\chenyu.wang\MyScriptsAndTools\DataSet\bin\Debug\net8.0\DataSet.deps.json
+E:\chenyu.wang\MyScriptsAndTools\DataSet\bin\Debug\net8.0\DataSet.runtimeconfig.json
+E:\chenyu.wang\MyScriptsAndTools\DataSet\bin\Debug\net8.0\DataSet.dll
+E:\chenyu.wang\MyScriptsAndTools\DataSet\bin\Debug\net8.0\DataSet.pdb
+E:\chenyu.wang\MyScriptsAndTools\DataSet\obj\Debug\net8.0\DataSet.dll
+E:\chenyu.wang\MyScriptsAndTools\DataSet\obj\Debug\net8.0\refint\DataSet.dll
+E:\chenyu.wang\MyScriptsAndTools\DataSet\obj\Debug\net8.0\DataSet.pdb
+E:\chenyu.wang\MyScriptsAndTools\DataSet\obj\Debug\net8.0\DataSet.genruntimeconfig.cache
+E:\chenyu.wang\MyScriptsAndTools\DataSet\obj\Debug\net8.0\ref\DataSet.dll
